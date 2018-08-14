@@ -1,0 +1,1 @@
+console.log ('Youare at '+window.location);
